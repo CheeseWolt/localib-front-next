@@ -1,0 +1,7 @@
+.side {
+    height: 100vh;
+    width: 20vw;
+    display: inline;
+    clear: both;
+    background-color: rgb(251, 8, 8);
+}
